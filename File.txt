@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Modified Line
+=======
+line in txt
+line in txt
+>>>>>>> branchA
+MM
